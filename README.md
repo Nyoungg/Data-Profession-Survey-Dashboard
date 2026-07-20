@@ -18,7 +18,7 @@ This project analyzes responses from a survey of data professionals using Power 
 ---
 
 ## Project Workflow
-
+```
 Survey Dataset
       │
       ▼
@@ -29,7 +29,7 @@ Data Cleaning
       │
       ▼
 Power BI Dashboard
-
+```
 ---
 
 ## Dashboard
@@ -72,7 +72,7 @@ Power BI Dashboard
 ## Repository Structure
 
 Data-Profession-Survey-Dashboard/
-
+```
 ├── powerbi/
 │   └── Data Profession Survey.pbix
 │
@@ -80,7 +80,7 @@ Data-Profession-Survey-Dashboard/
 │   └── dashboard.png
 │
 └── README.md
-
+```
 ---
 
 ## Dataset
