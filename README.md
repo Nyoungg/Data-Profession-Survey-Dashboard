@@ -74,7 +74,7 @@ Power BI Dashboard
 Data-Profession-Survey-Dashboard/
 ```
 ├── powerbi/
-│   └── Data Profession Survey.pbix
+│   └── DataProfessionSurvey.pbix
 │
 ├── images/
 │   └── dashboard.png
